@@ -73,7 +73,7 @@ dependencies {
     implementation fg.deobf('blank:caravansconvoys-forge-1.0.5-1.20.1:java17')
     implementation fg.deobf('blank:trotting_wagons:1.0.4')
     implementation fg.deobf('blank:geckolib-forge-1.20.1:4.8.4')
-    implementation fg.deobf('blank:village_recruits-1.0.7.93TC:80')
+    implementation fg.deobf('blank:village_recruits-1.0.7.93TC:127')
     implementation fg.deobf('blank:recruits-1.20.1:1.15.2')
     implementation fg.deobf('blank:workers-1.20.1:2.0.3')
     implementation fg.deobf('blank:jei-1.20.1-forge:15.20.0.112')
