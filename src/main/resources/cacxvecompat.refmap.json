@@ -20,6 +20,7 @@
       "renderLabels": "Lcom/warborn/caravansconvoys/client/CaravanDockScreen;m_280003_(Lnet/minecraft/client/gui/GuiGraphics;II)V"
     },
     "com/cacxve/mixin/ScreenAccessor": {
+      "addRenderableWidget": "m_142416_(Lnet/minecraft/client/gui/components/events/GuiEventListener;)Lnet/minecraft/client/gui/components/events/GuiEventListener;",
       "removeWidget": "m_169411_(Lnet/minecraft/client/gui/components/events/GuiEventListener;)V"
     },
     "com/cacxve/mixin/CaravanDockScreenMixin": {
