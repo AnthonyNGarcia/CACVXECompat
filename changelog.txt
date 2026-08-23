@@ -1,0 +1,11 @@
+1.0.0
+====
+- Initial release
+- Village trade docks: Villager Recruits villages get caravan docks with typed trade catalogs
+  (farming, forestry, mining, merchant, military)
+- Sell any config-priced item to any village for emeralds; village sales stay type-restricted
+- Computed barter: put any priced export and a wanted import in the dock sample slots and the
+  server computes whole-number quantities from emerald values
+- Bulk trade multipliers (1x, 2x, 3x, 5x, 10x) selectable in the dock UI
+- Optional public player docks (allowPublicCaravanDocks)
+- Automatic wagon redispatch on return and stalled-route recovery

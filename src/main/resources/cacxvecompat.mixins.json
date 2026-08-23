@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.cacxve.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "CaravanDockOpenMixin",
+    "VillageFactionManagerMixin",
+    "DockRegistryMixin",
+    "DockRegistryRouteMixin",
+    "WagonArrivalMixin",
+     "WagonDispatchMixin",
+    "WagonReturnMixin"
+  ],
+  "client": [
+    "RouteSelectionScreenMixin",
+    "ScreenAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

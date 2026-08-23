@@ -1,0 +1,7 @@
+[
+  {"id":"farming","displayName":"Farming"},
+  {"id":"forestry","displayName":"Forestry"},
+  {"id":"mining","displayName":"Mining"},
+  {"id":"merchant","displayName":"Merchant"},
+  {"id":"military","displayName":"Military"}
+]
