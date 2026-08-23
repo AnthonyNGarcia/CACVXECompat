@@ -3,6 +3,7 @@
   "minVersion": "0.8",
   "package": "com.cacxve.mixin",
   "compatibilityLevel": "JAVA_17",
+  "refmap": "cacxvecompat.refmap.json",
   "mixins": [
     "CaravanDockOpenMixin",
     "VillageFactionManagerMixin",
