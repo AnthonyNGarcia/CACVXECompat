@@ -32,8 +32,8 @@ Server config can allow any player to access and edit player-owned caravan docks
 
 | | |
 |---|---|
-| ![Selecting a village route](docs/route-picker.png) | ![Dock UI with bulk multipliers](docs/dock-ui.png) |
-| ![Caravan arriving at a village](docs/village-wagon.png) | |
+| ![Selecting a village route](tradeoptions.png) | ![Dock UI with bulk multipliers](caravanmenu.png) |
+| ![Caravan arriving at a village](caravanatvillage.png) | |
 
 ## Requirements
 
@@ -73,5 +73,5 @@ The build expects the dependency jars (Caravans & Convoys, Village Expansion, et
 
 ## Issues & source
 
-- Source: https://github.com/Lysho/CACVXECompat
-- Bug reports: https://github.com/Lysho/CACVXECompat/issues
+- Source: https://github.com/AnthonyNGarcia/CACVXECompat
+- Bug reports: https://github.com/AnthonyNGarcia/CACVXECompat/issues
